@@ -1,9 +1,13 @@
 name: "YOUR-WEBSITE-NAME"
 output_dir: "."
 navbar:
-  title: "Your website name"
+  title: "Peter J Flynn"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "CV"
+      href: CV.html
+    - text: "Contact"
+      href: Contact.html
