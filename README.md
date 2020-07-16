@@ -1,4 +1,3 @@
 # peterjflynn
 
-hi
-A line I wrote on my local computer
+This is my personal website!
