@@ -20,7 +20,7 @@ Endogenous viral elements (EVEs) can play a significant role in the evolution of
 
 
 ##Viral Diversity##
-No one knows much about viruses which infect ants. I am interested in beginning to understand what structures these viral communities in a phylogenetically broad groups of ants. In addition, since viruses and bacteria are constantly interacting, I am fascinated by this interplay within the ant host. Therefore, I am also examining the differences between viral and bacterial communities within Neotropical ants along a fragmented gradient.
+Currently, there is not much known about viruses which infect ants. I am interested in beginning to understand what structures these viral communities in a phylogenetically broad groups of ants. In addition, since viruses and bacteria are constantly interacting, I am fascinated by this interplay within the ant host. Therefore, I am also examining the differences between viral and bacterial communities within Neotropical ants along a fragmented gradient.
 
 
 ##Bacterial Gut Localization##
