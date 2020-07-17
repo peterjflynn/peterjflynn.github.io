@@ -1,18 +1,26 @@
 ---
 title: "Contact"
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css', 'CSSmisc.css']
+    includes:
+      after_body: footer.html
 ---
 
-EMAIL
+EMAIL:
 pflynn@uchicago.edu
 
-UNIVERSITY OF CHICAGO
+UNIVERSITY OF CHICAGO: 
 Committee on Evolutionary Biology
 Culver Hall 402
 1025 E. 57th St.
 Chicago, IL 60637
 
-FIELD MUSEUM OF NATURAL HISTORY
+FIELD MUSEUM OF NATURAL HISTORY: 
 Division of Insects
 Department of Zoology
 1400 S. Lake Shore Dr.
 Chicago, IL 60605
+
+
+

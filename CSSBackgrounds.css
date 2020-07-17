@@ -1,0 +1,6 @@
+/* This sets the background body color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
+
+body {
+  background-color: rgba(39, 205, 205,0.12) /*light blue*/
+  
+}

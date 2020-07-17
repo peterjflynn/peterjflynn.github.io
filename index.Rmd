@@ -1,5 +1,24 @@
 ---
-title: "Your website name"
+title: "PETER J FLYNN"
+output: 
+  html_document:
+    css: 'CSSFonts.css'
+    includes:
+      after_body: footer.html
 ---
 
-Hello, World!
+<!-- This centers the title text on this page.  -->
+
+<style type="text/css">
+
+h1.title {
+  font-size: 60px;
+  color: ;
+  text-align: center;
+}
+</style>
+
+<center> Ants, Bacteria, Viruses, and Host-Microbe Interactions. </center>
+
+![](neoponera_apicalis2.jpg)
+

@@ -1,0 +1,23 @@
+---
+title: "Publications"
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
+---
+
+**Flynn, P. J**. and Moreau, C.S. (2019), Assessing the diversity of endogenous viruses throughout ant genomes. Frontiers in Microbiology, doi:10.3389/fmicb.2019.01139   
+
+Dennis, P.W.\*\, **Flynn, P. J.**\*\, de Souza, W.M., Singer, J.B., Moreau, C.S., Wilson, S.J. and Gifford, R.J. (2018), Insights into circovirus host range from the genomic fossil record. Journal of Virology, doi:10.1128/JVI.00145-18  *authors contributed equally 
+
+Queenan A.M., Dowling D.J., Cheng, W.K., Fae, K., Fernandez J., **Flynn, P.J.**, Joshi S., Brightman, S.E., Ramirez J., Serroyen, J., Wiertsema S., Fort- anier, A.,van den Dobbelsteen, G., Levy, O. , and Poolman, J. (2018). Increas- ing FIM2/3 antigen-content improves efficacy of Bordetella pertussis vaccines in mice in vivo without altering vaccine-induced human reactogenicity biomarkers in vitro. Vaccine, doi:10.1016/j.vaccine.2018.11.028  
+
+Sanchez-Schmitz, G., Stevens, C.R., Bettencourt, I.A., **Flynn, P.J.**, Schmitz- Abe, K., Metser G., Hamm D., Jensen, K.J., Benn, C., and Levy, O.(2018). Microphysiologic human tissue constructs reproduce autologous age-specific BCG and HBV primary immunization in vitro. Frontiers in Immunology, doi:10.3389/fimmu.2018.02634  
+
+**Flynn, P. J.** (2017), Digest: Using transcriptomics to map parental care be- havior in burying beetles. Evolution, 71: 21322133. doi:10.1111/evo.13301  
+
+Pearcy, A, Gibson, M, Balmagia, J, Berkey, J, **Flynn, P**, and Viljoen, S. (2013). Disturbance effects on a South African river and the impact on the Mutale River Crocodylus niloticus population. Proceedings of the 22nd Working Meeting of the IUCN-SSC Crocodile Specialist Group. IUCN: Gland, Switzerland.  
+
+**Flynn, P. J.** (2012). ”Zaglossus bartoni” (On-line), Animal Diversity Web.  
+

@@ -1,0 +1,20 @@
+/* This sets the fonts that your website uses; you can get fonts at: https://fonts.google.com/?sidebar.open&selection.family=Montserrat:wght@500|Roboto:wght@100;900. Just select a font, and from the right hand sidebar, click "embed", click "@import", and you'll get the import url and the info to specify font families. You'll need to specifically select different font weights if you want to use those. */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:wght@100;700;900&display=swap');
+
+h1, h2, h3 {
+ font-family: 'Roboto', sans-serif;
+ font-weight: 700;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* This sets the link text color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
+
+a { color: #814FA0; } /* CSS link color */
