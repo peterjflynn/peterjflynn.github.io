@@ -6,5 +6,5 @@ output:
     includes:
       after_body: footer.html
 ---
-My full CV is available [here](Flynn_CV_2020_Final.pdf).
+My full CV is available [here](Flynn_Resume_07_2021.pdf).
 

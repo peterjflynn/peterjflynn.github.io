@@ -15,13 +15,16 @@ output:
 The goal of my research is to begin to untangle the factors which structure viral and bacterial communities within ants 
 
 
-##Viral Endogenization##
+**VIRAL ENDOGENIZATION**
+
 Endogenous viral elements (EVEs) can play a significant role in the evolution of their hosts and have been identified in animals, plants, and fungi. Additionally, EVEs potentially provide an important snapshot of the evolutionary frequency of viral infection. I take a comparative host-centered approach to EVE discovery in ant genomes to better understand the relationship of EVEs to their ant hosts. 
 
 
-##Viral Diversity##
+**VIRAL DIVERSITY**
+
 Currently, there is not much known about viruses which infect ants. I am interested in beginning to understand what structures these viral communities in a phylogenetically broad groups of ants. In addition, since viruses and bacteria are constantly interacting, I am fascinated by this interplay within the ant host. Therefore, I am also examining the differences between viral and bacterial communities within Neotropical ants along a fragmented gradient.
 
 
-##Bacterial Gut Localization##
+**BACTERIAL GUT LOCALIZATION**
+
 Microbial communities within the animal digestive tract often play an important function for their hosts. . In several ant taxa, recent findings have demonstrated that nitrogen provisioning by symbiotic bacteria makes up for shortcomings in herbivorous diets. *Cephalotes* or turtle ants are a genus of herbivorous ant which possess gut compartments with different communities of bacteria potentially aiding in digestion and nutrition. I aim to understand at a fine-scale, what is structuring the ant-gut bacterial community over the *Cephalotes* phylogeny.
