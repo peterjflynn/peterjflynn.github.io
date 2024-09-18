@@ -18,7 +18,7 @@ h1.title {
 }
 </style>
 
-<center> Ants, Bacteria, Viruses, and Host-Microbe Interactions. </center>
+<center> Ants, Plants, Bacteria, Viruses, and Host-Microbe Interactions. </center>
 
 ![](neoponera_apicalis2.jpg)
 

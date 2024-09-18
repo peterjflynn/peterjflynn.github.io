@@ -12,7 +12,7 @@ output:
      $head.prepend('<img src=\"Cephalotes1.jpg\" style=\"float: right;width: 500px;padding: 15px\"/>')
    });
 </script>
-The goal of my research is to begin to untangle the factors which structure viral and bacterial communities within ants 
+The goal of my PhD research was to begin to untangle the factors which structure viral and bacterial communities within ants 
 
 
 **VIRAL ENDOGENIZATION**

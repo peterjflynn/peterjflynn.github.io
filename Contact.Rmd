@@ -8,19 +8,11 @@ output:
 ---
 
 EMAIL:
-pflynn@uchicago.edu
+pflynn@fas.harvard.edu
 
-UNIVERSITY OF CHICAGO: 
-Committee on Evolutionary Biology
-Culver Hall 402
-1025 E. 57th St.
-Chicago, IL 60637
-
-FIELD MUSEUM OF NATURAL HISTORY: 
-Division of Insects
-Department of Zoology
-1400 S. Lake Shore Dr.
-Chicago, IL 60605
+Harvard University: 
+22 Divinity Ave
+Cambridge, MA 02138
 
 
 

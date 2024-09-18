@@ -1,10 +1,10 @@
 ---
-title: "Flynn CV 2022"
+title: "Flynn CV 2024"
 output: 
   html_document:
     css: ['CSSBackgrounds.css', 'CSSFonts.css']
     includes:
       after_body: footer.html
 ---
-My full CV is available [here](Flynn_CV_2022.pdf).
+My full CV is available [here](Flynn_Resume_2024_Github.pdf).
 
