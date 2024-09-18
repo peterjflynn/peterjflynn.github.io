@@ -6,6 +6,8 @@ output:
     includes:
       after_body: footer.html
 ---
+**Flynn, P. J.** and Moreau, C.S. (2024), Viral diversity and co-evolutionary dynamics across the ant phylogeny. Molecular Ecology, doi:10.1111/MEC.17519
+
 **Flynn, P. J.** , D'Amelio, C., Russell, J.A., and Moreau, C.S. (2021), Localization of bacterial communities in gut compartments across Cephalotes turtle ants. Applied and Environmental Microbiology, doi:10.1128/AEM.02803-20
 
 **Flynn, P. J**. and Moreau, C.S. (2019), Assessing the diversity of endogenous viruses throughout ant genomes. Frontiers in Microbiology, doi:10.3389/fmicb.2019.01139   
